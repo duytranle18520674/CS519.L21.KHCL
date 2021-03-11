@@ -12,6 +12,7 @@
     <td>18520674</td>
     <td>Trần Lê Duy</td>
     <td>Trưởng nhóm</td>
+    <td>duytranle18520674</td>
   </tr>
   <tr>
     <td>18520751</td>
