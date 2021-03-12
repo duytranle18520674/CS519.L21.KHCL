@@ -7,7 +7,6 @@
     <th>Họ và tên</th>
     <th>Chức vụ</th>
     <th>Tên Github</th>
-    <th>Mức độ đóng góp</th>
   </tr>
   <tr>
     <td>18520674</td>
