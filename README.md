@@ -7,6 +7,7 @@
     <th>Họ và tên</th>
     <th>Chức vụ</th>
     <th>Tên Github</th>
+    <th>Mức độ đóng góp</th>
   </tr>
   <tr>
     <td>18520674</td>
@@ -19,6 +20,7 @@
     <td>Nguyễn Trung Hiếu</td>
     <td>Thành viên</td>
     <td>nt-hieu20</td>
+    <td>KHÔNG HỢP TÁC</td>
   </tr>
   <tr>
     <td>17521232</td>
