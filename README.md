@@ -20,7 +20,6 @@
     <td>Nguyễn Trung Hiếu</td>
     <td>Thành viên</td>
     <td>nt-hieu20</td>
-    <td>KHÔNG HỢP TÁC</td>
   </tr>
   <tr>
     <td>17521232</td>
