@@ -18,6 +18,7 @@
     <td>18520751</td>
     <td>Nguyễn Trung Hiếu</td>
     <td>Thành viên</td>
+    <td>nt-hieu20</td>
   </tr>
   <tr>
     <td>17521232</td>
