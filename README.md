@@ -5,7 +5,6 @@
   <tr>
     <th>MSSV</th>
     <th>Họ và tên</th>
-    <th>Chức vụ</th>
     <th>Tên Github</th>
   </tr>
   <tr>
